@@ -1,1 +1,1 @@
-vieri kontol
+jangan disamain
