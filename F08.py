@@ -1,6 +1,6 @@
 from load import *
 # from main import *
-
+# hai ali anjeng
 def GetDataGame(data_game,games) :
     len_game=Length(data_game)
     game=[]
